@@ -28,4 +28,5 @@ pipeline {
             emailext body: 'summary sample', subject: 'pipeline status', to: 'dhakadrajat61@gmail.com'
         }
     }
+    
 }
